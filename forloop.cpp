@@ -18,10 +18,10 @@ int main(){
     for (int i = val_a; i <= val_b; i++)
     {
         //condition
-        if(i <= 9){cout<<i<<value_names[i-1]<<endl;}
-        else if(i % 2 == 0) {cout<<i<<"even"<<endl;}
+        if(i <= 9){cout<<value_names[i-1]<<endl;}
+        else if(i % 2 == 0) {cout<<"even"<<endl;}
         else{cout<<"old"<<endl;}
-        
+
     }
     
     return 0;
