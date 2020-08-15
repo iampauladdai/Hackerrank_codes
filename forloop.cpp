@@ -22,6 +22,8 @@ int main(){
         else if(i % 2 == 0) {cout<<"even"<<endl;}
         else{cout<<"old"<<endl;}
 
+        //hello I made some changes
+
     }
     
     return 0;
