@@ -20,7 +20,7 @@ int main(){
         //condition
         if(i <= 9){cout<<value_names[i-1]<<endl;}
         else if(i % 2 == 0) {cout<<"even"<<endl;}
-        else{cout<<"old"<<endl;}
+        else{cout<<"old"<<endl;} //this section
 
         //hello I made some changes
 
